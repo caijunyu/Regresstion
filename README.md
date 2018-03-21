@@ -5,3 +5,5 @@
 2.sigmoid_regesstion_with_label.py：
 logistic回归，监督学习。用最大似然优化。
 ![image](https://github.com/caijunyu/Regresstion/blob/master/picture/logistic_regresstion.jpg)
+3.softmax:
+![image](https://github.com/caijunyu/Regresstion/blob/master/picture/softmax.jpg)
